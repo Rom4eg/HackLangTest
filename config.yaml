@@ -1,0 +1,3 @@
+base_dir: /home/rom4eg/work/crm
+environment: dev
+tpl_dir: 'templates'
